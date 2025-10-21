@@ -70,7 +70,7 @@ The system is fully object-oriented and organized into modular classes, each wit
 ---
 
 ## 📂 Project Structure
-
+```
 Eventify/
 │
 ├── src/
@@ -95,7 +95,7 @@ Eventify/
 │
 ├── eventify.jar
 └── README.md
-
+```
 ## 📁 Example Data
 
 ### User Accounts (`UserAccounts.txt`)
