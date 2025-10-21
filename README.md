@@ -99,12 +99,18 @@ Eventify/
 ## 📁 Example Data
 
 ### User Accounts (`UserAccounts.txt`)
+
+```
 101, user1, Sarasvati, 12, LE11 3TU, Loughborough, admin
 102, user2, Felix, 14, E20 3BS, London, customer
 103, user3, Hikaru, 100, BN1 3XP, Brighton, customer
 104, user4, Salma, 57, PA3 2SW, Glasgow, customer
+```
+
 
 ### Event Stock (`Stock.txt`)
+
+```
 53201, Performance, Theatre, Shakespeare’s Macbeth, All, 400, 5000, 50, English
 21908, Music, DJ Set, EDM Madness, Adults, 1000, 7000, 30, 2
 56723, Performance, Stand-up Comedy, Laugh Out Loud, Adults, 250, 1500, 25, Japanese
@@ -115,7 +121,7 @@ Eventify/
 14935, Performance, Magic, Enchanted Wonders, All, 150, 2500, 35, English
 92674, Music, Live Concert, Summer Beats Festival, All, 1000, 15000, 25, 10
 47125, Performance, Theatre, The Great Escape, All, 350, 4500, 55, Spanish
-
+```
 
 ## ⚙️ Installation and Execution
 
